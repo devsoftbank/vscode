@@ -26,4 +26,4 @@
     1.http://www.google.cn/chrome
     2.离线安装包下载路径：https://www.google.cn/chrome/?hl=en&standalone=1
 #   markdown添加图片读取
-    ![好记么](https://github.com/devsoftbank/vscode/blob/master/favicon.png?raw=true "好记么")
+1.![好记么](https://github.com/devsoftbank/vscode/blob/master/favicon.png?raw=true "好记么")
