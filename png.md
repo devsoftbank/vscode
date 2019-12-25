@@ -1,0 +1,1 @@
+![好记么](https://github.com/devsoftbank/vscode/blob/master/favicon.png?raw=true "好记么")
