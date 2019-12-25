@@ -3,7 +3,7 @@
 
 一、下载谷歌的离线安装包
 谷歌浏览器的默认下载地址是：http://www.google.com/chrome/eula.html，其实这个地址后面可以跟很多的参数，最关键的一个参数就是standalone，将它的值设置为1就可以下载离线版了，具体的地址是：http://www.google.cn/chrome/?hl=cn&standalone=1，里面的hl是设定语言的，可以不用。
-
+[谷歌浏览器下载](http://www.google.cn/chrome/?hl=cn&standalone=1)
 二、修改谷歌浏览器的安装目录
 因为谷歌浏览器的安装程序很难进行定制，所以我们没有办法直接修改安装程序来实现修改安装目录的目的，但是可以通过一个小的技巧来制作绿色版的谷歌浏览器。
 
