@@ -26,5 +26,4 @@
     1.http://www.google.cn/chrome
     2.离线安装包下载路径：https://www.google.cn/chrome/?hl=en&standalone=1
 #   markdown添加图片读取
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+    ![好记么](https://haoji.me/favicon.png "好记么")
