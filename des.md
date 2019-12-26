@@ -40,7 +40,7 @@ markdown学习网址：http://itmyhome.com/markdown/index.html
 Typora 极致简洁的编辑器，所见即所得！     
 #   Mermaid 实用教程
     Mermaid 是一个用于画流程图、状态图、时序图、甘特图的库，使用 JS 进行本地渲染，广泛集成于许多 Markdown 编辑器中。之前用过 PlantUML，但是发现这个东西的实现原理是生成 UML 的图片后上传服务端，每次再从服务端读取，因此觉得不够鲁棒，隐私性也不好，因而弃用。Mermaid 作为一个使用 JS 渲染的库，生成的不是一个“图片”，而是一段 HTML 代码，因此安全许多。
-原文链接：https://blog.csdn.net/fenghuizhidao/article/details/79440583
+原文链接：https://blog.csdn.net/fenghuizhidao/article/details/79440583      
 [Mermaid示例官网](https://mermaidjs.github.io/#/)       
 [Mermaid源代码仓库](https://github.com/knsv/mermaid)        
 ==============
